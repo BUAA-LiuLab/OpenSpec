@@ -15,9 +15,4 @@ ROM: for one raw data 10G or higher is recommended
 OS: Windows10 or higher
 
 # GUI Operation Usage
-Please read “Manual for OpenSpec.pdf” to learn the usage of MSCohort.
-
-# Contact us
-For any questions involving MSCohort, please contact us by email.
-
-Chao Liu, liuchaobuaa@buaa.edu.cn
+Please read “Manual for OpenSpec.pdf” to learn the usage of OpenSpec.
